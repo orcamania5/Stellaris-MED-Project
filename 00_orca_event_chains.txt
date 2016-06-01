@@ -1,0 +1,29 @@
+star_a_survey_chain = {
+	picture = GFX_evt_throne_room
+	icon = "gfx/interface/icons/situation_log/situation_log_main_quest.dds"
+	counter = {
+		star_a_surveyed = {
+			max = 1
+		}
+	}
+}
+
+star_b_survey_chain = {
+	picture = GFX_evt_throne_room
+	icon = "gfx/interface/icons/situation_log/situation_log_main_quest.dds"
+	counter = {
+		star_b_surveyed = {
+			max = 1
+		}
+	}
+}
+
+dark_star_survey_chain = {
+	picture = GFX_evt_throne_room
+	icon = "gfx/interface/icons/situation_log/situation_log_main_quest.dds"
+	counter = {
+		dark_star_surveyed = {
+			max = 1
+		}
+	}
+}
